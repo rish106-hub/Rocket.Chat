@@ -1,0 +1,22 @@
+.changeset/fix-search-attachment-fields.md
+  s_874c7bcceb52c9::t_573af6dbaa3dee 1-5
+apps/meteor/server/startup/ensureMessagesTextIndex.ts
+  s_874c7bcceb52c9::t_49df572c5fdee9 99
+  s_874c7bcceb52c9::t_f595b0405f199f 7-16,22-29
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.2",
+  "base_commit_sha": "68ac3486d00be66b2e507f042e666c6727612617",
+  "prompts": {},
+  "sessions": {
+    "s_874c7bcceb52c9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c0b4a7d-2fa1-4acc-886b-fb8f7900cc45",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
