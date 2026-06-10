@@ -1,0 +1,23 @@
+.changeset/fix-custom-field-error-type.md
+  s_874c7bcceb52c9::t_df52d97885b6d0 1-5
+apps/meteor/app/api/server/v1/users.ts
+  s_874c7bcceb52c9::t_d230146b533330 902-903
+apps/meteor/tests/end-to-end/api/users.ts
+  s_874c7bcceb52c9::t_9aee07bce5e114 1197
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "ebad5cd6d2c6a3cd5baf67606dc205c313e19179",
+  "prompts": {},
+  "sessions": {
+    "s_874c7bcceb52c9": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8c0b4a7d-2fa1-4acc-886b-fb8f7900cc45",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
