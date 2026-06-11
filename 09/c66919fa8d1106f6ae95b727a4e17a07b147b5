@@ -1,0 +1,28 @@
+apps/meteor/client/lib/VideoConfManager.ts
+  s_c7630f7402fdc8::t_3c3d188376e606 188-197
+  s_c7630f7402fdc8::t_e436186acad0e5 515-516
+  s_c7630f7402fdc8::t_4022467b78f91e 635-647
+  s_c7630f7402fdc8::t_aae8b6613f401f 595,609
+apps/meteor/server/configuration/videoConference.ts
+  s_c7630f7402fdc8::t_ce8294c8a4ca9b 1-23
+apps/meteor/server/configuration/index.ts
+  s_c7630f7402fdc8::t_8b45dcab50385d 15
+.changeset/fix-conference-call-ring.md
+  s_c7630f7402fdc8::t_5d42a45d7eb1ae 1-22
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "09c66919fa8d1106f6ae95b727a4e17a07b147b5",
+  "prompts": {},
+  "sessions": {
+    "s_c7630f7402fdc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3584e03a-1555-4eec-8c25-a4fc8eacdbea",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
