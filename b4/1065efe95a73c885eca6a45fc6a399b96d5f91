@@ -1,0 +1,19 @@
+apps/meteor/server/startup/ensureMessagesTextIndex.ts
+  s_c7630f7402fdc8::t_80353ec44f5926 82-85
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "b41065efe95a73c885eca6a45fc6a399b96d5f91",
+  "prompts": {},
+  "sessions": {
+    "s_c7630f7402fdc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3584e03a-1555-4eec-8c25-a4fc8eacdbea",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
