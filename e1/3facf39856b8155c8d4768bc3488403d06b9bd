@@ -1,0 +1,23 @@
+apps/meteor/client/navbar/NavBarPagesGroup/hooks/useCreateNewMenu.ts
+  s_c7630f7402fdc8::t_55536da23a6ec1 14
+apps/meteor/client/navbar/NavBarPagesGroup/NavBarItemCreateNew.tsx
+  s_c7630f7402fdc8::t_212b99856ef3fa 15-18
+.changeset/fix-create-button-no-permissions.md
+  s_c7630f7402fdc8::t_2934a54a18ea1f 1-5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "e13facf39856b8155c8d4768bc3488403d06b9bd",
+  "prompts": {},
+  "sessions": {
+    "s_c7630f7402fdc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3584e03a-1555-4eec-8c25-a4fc8eacdbea",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
