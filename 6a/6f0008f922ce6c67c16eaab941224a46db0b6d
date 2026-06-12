@@ -1,0 +1,24 @@
+packages/livechat/src/components/Messages/MessageSeparator/index.tsx
+  s_c7630f7402fdc8::t_9ce8f704f6795d 1
+  s_c7630f7402fdc8::t_fcdc4bdf660766 19-28,47
+.changeset/fix-message-separator-today-label.md
+  s_c7630f7402fdc8::t_6d6ca016bac481 1-5
+packages/livechat/src/i18n/en.json
+  s_c7630f7402fdc8::t_6d5278501d642e 62-63
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "6a6f0008f922ce6c67c16eaab941224a46db0b6d",
+  "prompts": {},
+  "sessions": {
+    "s_c7630f7402fdc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3584e03a-1555-4eec-8c25-a4fc8eacdbea",
+        "model": "claude-sonnet-4-6"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
