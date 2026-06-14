@@ -1,0 +1,23 @@
+apps/meteor/server/settings/accounts.ts
+  s_c7630f7402fdc8::t_920c34d043db00 269-270
+packages/i18n/src/locales/en.i18n.json
+  s_c7630f7402fdc8::t_0eb14c929e5798 417
+.changeset/fix-accounts-search-fields-documentation.md
+  s_c7630f7402fdc8::t_b27df6b8c05543 1-9
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.5.6",
+  "base_commit_sha": "71a7ed445a12500961f6fd0599f2b466d61628a4",
+  "prompts": {},
+  "sessions": {
+    "s_c7630f7402fdc8": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "3584e03a-1555-4eec-8c25-a4fc8eacdbea",
+        "model": "claude-haiku-4-5-20251001"
+      },
+      "human_author": "RISHAV DEWAN <rishavdewan10@gmail.com>"
+    }
+  }
+}
